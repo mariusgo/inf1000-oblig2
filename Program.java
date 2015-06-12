@@ -14,20 +14,20 @@
  * The system language is Norwegian. All read/write to file
  * is done with a package called easyIO, developed by the
  * authors of the INF1000 text book for Autumn 2013: "Rett
- * på java", written by Anders Brunland, Knut Hegna, Ole 
- * Christian Lingjærde, and Arne Maus.
+ * pÃ¥ java", written by Anders Brunland, Knut Hegna, Ole 
+ * Christian LingjÃ¦rde, and Arne Maus.
  *
  * @author Marius Olaussen
  */
 public class Program {
 	private static String rapportfil = "fugler.txt";
 	
-	/**
-	 * The main method creates a new object of the 
-	 * Observasjoner (Observations) class and sends this as
-	 * parameter to the constructor when creating a new Meny
-	 * (Menu) class object.
-	 */
+  /**
+   * The main method creates a new object of the 
+   * Observasjoner (Observations) class and sends this as
+   * parameter to the constructor when creating a new Meny
+   * (Menu) class object.
+   */
   public static void main (String[] args) {
     Observasjoner o = new Observasjoner(rapportfil, 0);
     Meny m = new Meny(o);
