@@ -1,0 +1,12 @@
+meis,F,Jevnaker,mai2013
+spurv,M,Harestua,juli2013
+orrhane,M,Myrene,august2013
+tiur,M,Jevnaker,september2013
+tiur,F,Nittedal,oktober2013
+nattergal,F,Roma,januar1999
+undulat,M,Karasjok,august2009
+orrfugl,F,Jevnaker,mai2000
+gjess,F,Halden,september2012
+tiur,F,Gokk,mai2013
+meis,M,Hurum,juni2013
+undulat,F,Kautokeino,desember2013
